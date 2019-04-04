@@ -44,6 +44,13 @@ Le travail doit être remis via [ce formulaire](https://goo.gl/forms/tBLWWNHiSJ2
 
 **Planning :** Idéalement les exercices doivent être terminés pour le premier laboratoire de la semaine du **22/04**.
 
+# Dossier 2
+
+[Enoncé du dossier](https://hepl-my.sharepoint.com/:b:/g/personal/cedric_thiernesse_hepl_be/EXj6-UgQZWNOm1uiEQtsK7IBfSQq21YOgsBBCRnAgwCZKw?e=CWouXI)
+
+Le travail doit être remis via [ce formulaire](https://forms.gle/8v2s9vudueaMbC4DA) avant le premier laboratoire de la semaine du 24/04.
+
+
 # Les listes
 ## Exercices
 [Lien vers exercices](https://tech.io/playgrounds/40724/les-listes)
